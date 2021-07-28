@@ -1,0 +1,1 @@
+az deployment group create --template-file ./main.bicep --resource-group rg-bicep-tutorial
