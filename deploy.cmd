@@ -1,1 +1,1 @@
-az deployment group create --template-file ./main.bicep --resource-group rg-bicep-tutorial
+az deployment group create --template-file ./main.bicep --resource-group rg-bicep-tutorial --parameters environmentType=nonprod
