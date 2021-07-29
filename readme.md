@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/learn/modules/deploy-azure-resources-by-using-bicep-templates/8-refactor-template-modules?pivots=cli
